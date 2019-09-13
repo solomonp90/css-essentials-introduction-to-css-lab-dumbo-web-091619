@@ -9,10 +9,10 @@ div {
 }
 
 /* ID selector to select the element with id 'main-header' */
-/*#main-header {
+#main-header {
 
   color:red;
-}*/
+}
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
