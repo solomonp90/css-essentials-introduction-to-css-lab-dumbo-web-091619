@@ -10,7 +10,7 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  margin: auto, color:red;
+  margin: auto ;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
