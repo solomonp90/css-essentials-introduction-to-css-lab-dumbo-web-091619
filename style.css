@@ -1,5 +1,5 @@
 /* Tag selector to select the 'body' element */
-span {
+#body {
     background: #00b3e6;
 }
 
