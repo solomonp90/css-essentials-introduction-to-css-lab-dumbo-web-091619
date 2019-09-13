@@ -9,9 +9,8 @@ div {
 }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {
+main-header {
   margin: auto;
-  
   color:red;
 }
 
